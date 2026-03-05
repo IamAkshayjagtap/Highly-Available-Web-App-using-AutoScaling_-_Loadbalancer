@@ -55,11 +55,11 @@ EC2 Instances (Nginx Web Server)
 - Subnets:
 ![subnets](images/Subnet.png)
 
-- Subnet Associte:
-![sub associate](images/sub_associate.png)
-
 - Route Table
 ![route](images/route.png)
+
+- Subnet Associte:
+![sub associate](images/sub_associate.png)
 
 - Route Add:
 ![Add route](images/ig-route_add.png)
